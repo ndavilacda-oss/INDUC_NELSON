@@ -1,0 +1,8 @@
+{
+  "name": "Remix Inducción SENA Interactiva",
+  "description": "Prototipo interactivo para la inducción institucional del SENA. Incluye caracterización del aprendiz, historia, símbolos, organigrama, derechos y deberes basados en el Reglamento del Aprendiz y Acuerdo 009 de 2012, junto con un simulador de casos con Inteligencia Artificial y emisión de certificación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
